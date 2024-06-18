@@ -22,6 +22,21 @@ const Navigator = () => {
             <FontAwesomeIcon icon={faHome} /> Login
           </Link>
         </li>
+        <li>
+          <Link to="form">
+            <FontAwesomeIcon icon={faHome} /> Form
+          </Link>
+        </li>
+        <li>
+          <Link to="formAdmin">
+            <FontAwesomeIcon icon={faHome} /> FormAdmin
+          </Link>
+        </li>
+        <li>
+          <Link to="formAdd">
+            <FontAwesomeIcon icon={faHome} /> FormAdd
+          </Link>
+        </li>
               </ul>
     </nav>
   );

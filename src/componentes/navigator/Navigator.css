@@ -1,0 +1,13 @@
+
+.navbar {
+    position:relative;
+    background-color: #333;
+    padding: 0.5px 0;
+    background: linear-gradient(to right, #008B8B, #6495ED);
+  }
+  
+  #logop {
+    width: 50px; 
+    height: auto;
+    padding: 2px;
+  }
